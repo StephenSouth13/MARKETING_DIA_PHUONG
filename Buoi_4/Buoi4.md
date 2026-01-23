@@ -118,3 +118,16 @@ Hình thành chuỗi cung ứng
 Liên kết DN trong cùng ngành
 
 Tăng năng suất, đổi mới công nghệ
+
+
+Lợi thế cạnh tranh tương đối sẽ các yếu tố: Chi phí cơ hội
+
+Sự khác biệt gì về lợi nhuận tài chính và Lợi nhuận kinh tế ? - Việc ra quyết định phải dựa vào chi phí cơ hội,không được dựa vào chi phí chìm và chi phí kế toán.
+Doanh nghieeph thượng nguồn
+Doanh nghiệp hạ nguồn
+
+Đường cong nụ cười
+src img = "Buoi_4\image.png"
+
+
+Ở Việt Nam cũng mong muốn có cụm doanh nghiệp Dầu Khí

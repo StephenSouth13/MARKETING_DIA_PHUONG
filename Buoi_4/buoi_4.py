@@ -17,3 +17,4 @@ summary.plot(kind="bar")
 plt.title("So sánh doanh thu: Cụm KHÁC hãng vs CÙNG hãng")
 plt.ylabel("Doanh thu (triệu VND)")
 plt.show()
+
